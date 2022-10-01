@@ -1,0 +1,25 @@
+body {
+	background: #8E8D8D;
+	font:16px arial;
+}
+a {
+	color: #4b566a;
+	text-decoration: none;
+	background: #C8C5C5;
+}
+.fundo2 {
+	background: #C8C5C5;
+
+}
+.italico {
+	font-style: italic;
+}
+h2 {
+	color: #424242;
+	font-size: 1.2em;
+	background: #848484;
+}
+.borda {
+	border: 10px solid white;
+
+}
